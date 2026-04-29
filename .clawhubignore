@@ -2,5 +2,6 @@ credentials.json
 auth_token.json
 browser_state.json
 local_storage.json
+user_preferences.json
 __pycache__/
 *.pyc

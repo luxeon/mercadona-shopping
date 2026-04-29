@@ -1,6 +1,7 @@
 # Secrets & auth
 credentials.json
 auth_token.json
+user_preferences.json
 
 # Browser artifacts
 browser_state.json
