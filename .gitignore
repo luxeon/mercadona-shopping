@@ -1,0 +1,24 @@
+# Secrets & auth
+credentials.json
+auth_token.json
+
+# Browser artifacts
+browser_state.json
+local_storage.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

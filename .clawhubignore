@@ -1,0 +1,6 @@
+credentials.json
+auth_token.json
+browser_state.json
+local_storage.json
+__pycache__/
+*.pyc
