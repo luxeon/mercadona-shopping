@@ -65,7 +65,7 @@ Algolia and reCAPTCHA credentials use public defaults from Mercadona's frontend.
 
 ## Getting a Capsolver API Key
 
-1. Sign up at [capsolver.com]([https://capsolver.com](https://dashboard.capsolver.com/passport/register?inviteCode=_S2GBbdLolWq)
+1. Sign up at [capsolver.com](https://dashboard.capsolver.com/passport/register?inviteCode=_S2GBbdLolWq)
 2. Add funds (minimum ~$2)
 3. Copy your API key from the dashboard
 
